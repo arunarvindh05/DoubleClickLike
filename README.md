@@ -1,4 +1,7 @@
 # DoubleClickLike
 
 
-These is the instagram double click like functionality
+Instagram double click like functionality
+
+-Used eventListener of double click 
+
