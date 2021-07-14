@@ -3,5 +3,5 @@
 
 Instagram double click like functionality
 
--Used eventListener of double click 
+-Used 'dblclick' as eventListener of double click 
 
